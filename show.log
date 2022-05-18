@@ -1,0 +1,456 @@
+nohup: ignoring input
+/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/torch/serialization.py:671: SourceChangeWarning: source code of class 'torch.nn.modules.conv.Conv2d' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/torch/serialization.py:671: SourceChangeWarning: source code of class 'torch.nn.modules.container.Sequential' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/torch/serialization.py:671: SourceChangeWarning: source code of class 'torch.nn.modules.batchnorm.BatchNorm2d' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/torch/serialization.py:671: SourceChangeWarning: source code of class 'torch.nn.modules.activation.ReLU' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/torch/serialization.py:671: SourceChangeWarning: source code of class 'torch.nn.modules.linear.Linear' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+Files already downloaded and verified
+0
+confidence: 0.9999999
+pred label: 3
+attack success
+1
+confidence: 1.0
+pred label: 8
+attack success
+2
+confidence: 0.9649917
+pred label: 8
+attack success
+3
+confidence: 0.9904316
+pred label: 0
+attack success
+4
+confidence: 1.0
+pred label: 6
+attack success
+5
+confidence: 1.0
+pred label: 6
+attack success
+6
+confidence: 0.99842155
+pred label: 1
+attack success
+7
+confidence: 0.99999976
+pred label: 6
+attack success
+8
+confidence: 1.0
+pred label: 3
+attack failed
+9
+confidence: 0.99557245
+pred label: 1
+attack success
+10
+confidence: 1.0
+pred label: 0
+attack failed
+11
+confidence: 1.0
+pred label: 9
+attack failed
+12
+confidence: 0.9999999
+pred label: 5
+attack success
+13
+confidence: 0.999998
+pred label: 7
+attack failed
+14
+confidence: 1.0
+pred label: 9
+attack failed
+15
+confidence: 0.9993585
+pred label: 8
+attack success
+16
+confidence: 0.9999987
+pred label: 5
+attack success
+17
+confidence: 1.0
+pred label: 7
+attack success
+18
+confidence: 1.0
+pred label: 8
+attack success
+19
+confidence: 1.0
+pred label: 6
+attack failed
+20
+confidence: 0.9857137
+pred label: 7
+attack success
+21
+confidence: 0.9984902
+pred label: 0
+attack success
+22
+confidence: 0.9280603
+pred label: 4
+attack success
+23
+confidence: 0.9999999
+pred label: 9
+attack success
+24
+confidence: 0.9964715
+pred label: 5
+attack success
+25
+confidence: 0.9980938
+pred label: 2
+attack success
+26
+confidence: 0.99981767
+pred label: 4
+attack success
+27
+confidence: 1.0
+pred label: 0
+attack failed
+28
+confidence: 1.0
+pred label: 9
+attack success
+29
+confidence: 1.0
+pred label: 6
+attack failed
+30
+confidence: 0.9999982
+pred label: 6
+attack success
+31
+confidence: 0.99997807
+pred label: 5
+attack success
+32
+confidence: 0.9989743
+pred label: 4
+attack success
+33
+confidence: 0.99999845
+pred label: 5
+attack success
+34
+confidence: 1.0
+pred label: 9
+attack success
+35
+confidence: 0.9999993
+pred label: 2
+attack success
+36
+confidence: 0.9989323
+pred label: 4
+attack success
+37
+confidence: 0.7520152
+pred label: 1
+attack success
+38
+confidence: 1.0
+pred label: 9
+attack success
+39
+confidence: 0.9999989
+pred label: 5
+attack success
+40
+confidence: 0.9999999
+pred label: 4
+attack success
+41
+confidence: 1.0
+pred label: 6
+attack success
+42
+confidence: 0.999845
+pred label: 5
+attack success
+43
+confidence: 1.0
+pred label: 6
+attack success
+44
+confidence: 0.99999964
+pred label: 0
+attack failed
+45
+confidence: 0.9999989
+pred label: 9
+attack failed
+46
+confidence: 0.9999268
+pred label: 3
+attack success
+47
+confidence: 0.6162838
+pred label: 8
+attack success
+48
+confidence: 0.9999988
+pred label: 7
+attack success
+49
+confidence: 0.99856997
+pred label: 6
+attack success
+50
+confidence: 0.99998426
+pred label: 9
+attack success
+51
+confidence: 0.99999964
+pred label: 8
+attack failed
+52
+confidence: 0.9739861
+pred label: 0
+attack success
+53
+confidence: 0.7469483
+pred label: 3
+attack success
+54
+confidence: 1.0
+pred label: 8
+attack success
+55
+confidence: 1.0
+pred label: 8
+attack success
+56
+confidence: 0.9999988
+pred label: 7
+attack success
+57
+confidence: 0.99525297
+pred label: 7
+attack success
+58
+confidence: 0.79504806
+pred label: 5
+attack success
+59
+confidence: 0.8489571
+pred label: 3
+attack success
+60
+confidence: 0.9999995
+pred label: 7
+attack success
+61
+confidence: 0.9173366
+pred label: 5
+attack success
+62
+confidence: 0.99999547
+pred label: 6
+attack success
+63
+confidence: 0.9999894
+pred label: 3
+attack success
+64
+confidence: 0.9999962
+pred label: 6
+attack success
+65
+confidence: 1.0
+pred label: 2
+attack success
+66
+confidence: 0.99839056
+pred label: 1
+attack success
+67
+confidence: 0.99999285
+pred label: 2
+attack success
+68
+confidence: 0.9998543
+pred label: 3
+attack success
+69
+confidence: 0.9998109
+pred label: 7
+attack success
+70
+confidence: 0.98639905
+pred label: 2
+attack success
+71
+confidence: 1.0
+pred label: 6
+attack success
+72
+confidence: 1.0
+pred label: 8
+attack failed
+73
+confidence: 1.0
+pred label: 8
+attack success
+74
+confidence: 0.8358645
+pred label: 0
+attack success
+75
+confidence: 1.0
+pred label: 2
+attack success
+76
+confidence: 0.9999987
+pred label: 9
+attack success
+77
+confidence: 1.0
+pred label: 3
+attack success
+78
+confidence: 0.99991405
+pred label: 3
+attack success
+79
+confidence: 1.0
+pred label: 8
+attack failed
+80
+confidence: 1.0
+pred label: 8
+attack failed
+81
+confidence: 0.8724471
+pred label: 1
+attack success
+82
+confidence: 0.9999993
+pred label: 1
+attack failed
+83
+confidence: 0.99999964
+pred label: 7
+attack failed
+84
+confidence: 0.9993612
+pred label: 2
+attack success
+85
+confidence: 0.9999436
+pred label: 5
+attack success
+86
+confidence: 0.99994564
+pred label: 2
+attack success
+87
+confidence: 0.9972627
+pred label: 7
+attack success
+88
+confidence: 1.0
+pred label: 8
+attack success
+89
+confidence: 0.99999964
+pred label: 9
+attack success
+90
+confidence: 0.99999833
+pred label: 0
+attack success
+91
+confidence: 0.99999595
+pred label: 3
+attack success
+92
+confidence: 0.9999999
+pred label: 8
+attack failed
+93
+confidence: 0.9999999
+pred label: 6
+attack success
+94
+confidence: 0.9999999
+pred label: 4
+attack success
+95
+confidence: 0.9999918
+pred label: 6
+attack success
+96
+confidence: 0.9998437
+pred label: 6
+attack success
+97
+confidence: 0.99999404
+pred label: 0
+attack success
+suc = 0.835
+Traceback (most recent call last):
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/urllib3/connection.py", line 175, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/urllib3/util/connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/urllib3/connectionpool.py", line 710, in urlopen
+    chunked=chunked,
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/urllib3/connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/urllib3/connection.py", line 358, in connect
+    self.sock = conn = self._new_conn()
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/urllib3/connection.py", line 187, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f89c066cd68>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/requests/adapters.py", line 450, in send
+    timeout=timeout
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/urllib3/connectionpool.py", line 786, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.day.app', port=443): Max retries exceeded with url: /yvLcN8BZg5un8gyNXyhtdY/%5E_%5Ecompleted_suc=0.835 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f89c066cd68>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "show.py", line 366, in <module>
+    requests.post("https://api.day.app/yvLcN8BZg5un8gyNXyhtdY/^_^completed_suc={:.3f}".format(suc/97))
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/requests/api.py", line 117, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/wangrun/anaconda3/envs/advOOD_env/lib/python3.6/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.day.app', port=443): Max retries exceeded with url: /yvLcN8BZg5un8gyNXyhtdY/%5E_%5Ecompleted_suc=0.835 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f89c066cd68>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
